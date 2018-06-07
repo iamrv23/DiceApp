@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         
         if (rNo == rNo1) {
 
-            Toast.makeText(this, "Yeahhhh.. 6", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Yeahhhh.. ", Toast.LENGTH_SHORT).show();
         }
 
 
